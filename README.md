@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Drugovich with a PHP/Laravel and Vue.js
+- 🔭 I’m currently working on Precode with a legacy PHP and JS
 
 # 💻 Tech Stack:
 <div style="display: inline_block"><br>
